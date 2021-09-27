@@ -1,5 +1,4 @@
-# Code-Base-for-MSc-Thesis
-
+# Code-Base-for-MSc-Thesis - Emotion Recognition in Conversations 
 This github link consists of the attention based BiERU code named as Attention_Based_BiERU_model. It also consists of the python notebooks of statistical analysis, 
 and accuracy and loss plots. 
 The folder named Output consists of sub folders and each of the sub folders consisits of all the screenshots related to that particular folder.
